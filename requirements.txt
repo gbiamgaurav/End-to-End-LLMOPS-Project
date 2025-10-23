@@ -1,0 +1,5 @@
+
+ipykernel
+pydantic
+fastapi
+python-dotenv
