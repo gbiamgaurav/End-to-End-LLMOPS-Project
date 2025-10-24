@@ -18,3 +18,5 @@ langchain_core
 docx2txt
 langsmith
 python-multipart
+structlog
+pypdf
