@@ -3,3 +3,15 @@ ipykernel
 pydantic
 fastapi
 python-dotenv
+langchain
+openai
+tiktoken
+rapidocr-onnxruntime
+langchain_community
+google-genai
+langchain-groq
+langchain-google-genai
+langchain_text_splitters
+faiss-cpu
+langchain_openai
+langchain_core
