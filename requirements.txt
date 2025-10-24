@@ -15,3 +15,6 @@ langchain_text_splitters
 faiss-cpu
 langchain_openai
 langchain_core
+docx2txt
+langsmith
+python-multipart
